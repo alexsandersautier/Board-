@@ -1,0 +1,2 @@
+# Board-
+exercise in JS
